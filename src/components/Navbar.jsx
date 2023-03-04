@@ -62,22 +62,22 @@ const Navbar = () => {
             <div className="hidden lg:flex fixed flex-col top-[35%] left-0">
                 <ul>
                     <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600">
-                        <a className="flex justify-between items-center w-full text-grey-300" href="/">
+                        <a className="flex justify-between items-center w-full text-grey-300" href="https://www.linkedin.com/in/shashank9895/">
                             LinkedIn <FaLinkedin size={30}/>
                         </a>
                     </li>
                     <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]">
-                        <a className="flex justify-between items-center w-full text-grey-300" href="/">
+                        <a className="flex justify-between items-center w-full text-grey-300" href="https://github.com/shawshank95/">
                             Github <FaGithub size={30}/>
                         </a>
                     </li>
                     <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]">
-                        <a className="flex justify-between items-center w-full text-grey-300" href="/">
+                        <a className="flex justify-between items-center w-full text-grey-300" href="mailto:shashank.95@gmail.com">
                             Email <HiOutlineMail size={30}/>
                         </a>
                     </li>
                     <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]">
-                        <a className="flex justify-between items-center w-full text-grey-300" href="/">
+                        <a className="flex justify-between items-center w-full text-grey-300" href="https://drive.google.com/file/d/1utRq8SSfeF9_VN_zgBHd7RGvD8C6ZMK_/view?usp=sharing">
                             Resume <BsFillPersonLinesFill size={30}/>
                         </a>
                     </li>
